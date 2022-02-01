@@ -13,7 +13,7 @@ Otro aspecto interesante de un commit es que estos se enmarcan en el trabajo que
 
 En la siguiente imagen vemos un flujo típico de una operación con múltiples ramas en un ambiente colaborativo.
 
-![Control de versiones en acción](assets\git_flow.png?raw=true "Title")
+![Control de versiones en acción](assets/git_flow.png?raw=true "Title")
 
 ### Recursos
 - [Documentación oficial de Git](https://git-scm.com/docs)
