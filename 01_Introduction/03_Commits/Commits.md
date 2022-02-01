@@ -9,5 +9,12 @@ Los pasos que un desarrollador puede llevar para producir un *commit* son:
 - Crear un nuevo archivo.
 - Borrar algún archivo.
 
+Otro aspecto interesante de un commit es que estos se enmarcan en el trabajo que se hace en una **rama** (*branch*). Una branch es una versión el proyecto que puede convivir en paralelo con otras, esto abre la posibilidad de paralelizar con confianza el desarrollo de una aplicación entre múltiples personas.
+
+En la siguiente imagen vemos un flujo típico de una operación con múltiples ramas en un ambiente colaborativo.
+
+![Control de versiones en acción](assets\git_flow.png?raw=true "Title")
+
 ### Recursos
-- 
+- [Documentación oficial de Git](https://git-scm.com/docs)
+- [Explicación visual de lo que es un commit](https://stackoverflow.com/a/43970646)
